@@ -4,7 +4,7 @@ A menu-driven calculator written in 16 bit 8086 Assembly Language.
 This program is designed to run in a DOS environment and handles basic arithmetic operations.
 
 ## Features
-- **Supported Operations:** - +-*/
+- **Supported Operations:** +-*/
 - **Multi-Digit Support:** Accepts and processes inputs up to 16-bit values.
 - **Error Handling:** Includes specific logic to catch and report division by zero errors.
 
